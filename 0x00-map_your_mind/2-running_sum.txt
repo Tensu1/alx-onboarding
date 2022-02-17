@@ -1,0 +1,6 @@
+Read num
+set sum to 0
+if(num>=0)
+        set sum to num+sum
+       read num
+else write sum
